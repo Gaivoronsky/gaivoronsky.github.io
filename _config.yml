@@ -35,8 +35,7 @@ additional_links:
   icon: fa fa-telegram
   url: https://t.me/Gaivoronskyi
 - title: huggingface.co
-#  icon: fa fa-telegram
-
+  icon: fas fa-globe
   url: https://huggingface.co/Gaivoronsky
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
