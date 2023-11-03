@@ -90,7 +90,7 @@ content:
       - layout: left
 #        title: DataLab
 #        link: datalab.automacon.ru
-#        sub_title: Team Lead NLP
+        sub_title: Team Lead NLP
 #        caption: January 2019 - Present
         quote: >
           Solved the problem of matching anals in the vkusvill store
@@ -99,7 +99,7 @@ content:
       - layout: left
 #        title: DataLab
 #        link: datalab.automacon.ru
-#        sub_title: Team Lead NLP
+        sub_title: Team Lead NLP
 #        caption: January 2019 - Present
         quote: >
           Solved the problem of a long search for goods by creating a service of text hints when searching for the Vkusville marketplace.
@@ -108,7 +108,7 @@ content:
       - layout: left
 #        title: DataLab
 #        link: datalab.automacon.ru
-#        sub_title: Team Lead NLP
+        sub_title: Team Lead NLP
 #        caption: January 2019 - Present
         quote: >
           The problem of automatically marking user calls to internal classes was solved
