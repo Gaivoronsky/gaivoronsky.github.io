@@ -80,26 +80,31 @@ content:
     content:
       - layout: left
         title: DataLab
-        link: https://datalab.automacon.ru/
-        sub_title: Team Lead Data Scientist
+        link: datalab.automacon.ru
+        sub_title: Team Lead NLP
         caption: January 2019 - Present
         quote: >
           Solved the problem of matching anals in the vkusvill store
-        description: | # this will include new lines to allow paragraphs
+        description: |
             To solve the problem of comparing analogues, led a data science team that was involved in research and product processes. As a result, the ML service was implemented, the CI/СD integration and control processes for the solution were set up.
-      - layout: right
+      - layout: left
         title: DataLab
-        link: https://datalab.automacon.ru/
-        sub_title: Team Lead Data Scientist
+        link: datalab.automacon.ru
+        sub_title: Team Lead NLP
         caption: January 2019 - Present
         quote: >
           Solved the problem of a long search for goods by creating a service of text hints when searching for the Vkusville marketplace.
-        description: | # this will include new lines to allow paragraphs
+        description: |
             To solve the text suggestions problem, he led a team of data scientists that focused on research and product processes. As a result, an architecture was developed based on classical data science approaches, and a pipeline for updating the service and its integration into production was established.
-
-#  - title: Experience # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
+      - layout: left
+        title: DataLab
+        link: datalab.automacon.ru
+        sub_title: Team Lead NLP
+        caption: January 2019 - Present
+        quote: >
+          The problem of automatically marking user calls to internal classes was solved
+        description: |
+            To do this, I carried out work on cleaning and preprocessing the data. Many experiments were carried out and the optimal architecture for this task based on transformers was selected.
 
 
   - title: Education # Title for the section
