@@ -84,23 +84,32 @@ content:
         sub_title: Team Lead NLP
         caption: January 2019 - Present
         quote: >
+          There was a problem of too large and dirty description of product cards, for which a summation model was developed.
+        description: |
+          To solve this problem, we developed a text summarization service based on the BARD architecture and set up a CI/CD integration pipeline into GitLab
+      - layout: left
+#        title: DataLab
+#        link: datalab.automacon.ru
+#        sub_title: Team Lead NLP
+#        caption: January 2019 - Present
+        quote: >
           Solved the problem of matching anals in the vkusvill store
         description: |
             To solve the problem of comparing analogues, led a data science team that was involved in research and product processes. As a result, the ML service was implemented, the CI/СD integration and control processes for the solution were set up.
       - layout: left
-        title: DataLab
-        link: datalab.automacon.ru
-        sub_title: Team Lead NLP
-        caption: January 2019 - Present
+#        title: DataLab
+#        link: datalab.automacon.ru
+#        sub_title: Team Lead NLP
+#        caption: January 2019 - Present
         quote: >
           Solved the problem of a long search for goods by creating a service of text hints when searching for the Vkusville marketplace.
         description: |
             To solve the text suggestions problem, he led a team of data scientists that focused on research and product processes. As a result, an architecture was developed based on classical data science approaches, and a pipeline for updating the service and its integration into production was established.
       - layout: left
-        title: DataLab
-        link: datalab.automacon.ru
-        sub_title: Team Lead NLP
-        caption: January 2019 - Present
+#        title: DataLab
+#        link: datalab.automacon.ru
+#        sub_title: Team Lead NLP
+#        caption: January 2019 - Present
         quote: >
           The problem of automatically marking user calls to internal classes was solved
         description: |
